@@ -1,11 +1,7 @@
-Welcome!
-
-Welcome to the Web Stack specialization. The 3 first projects will give you all basics of the Web development: HTML, CSS and Developer tools.
+# 0x00. Advanced HTML
 
 
+## Author
 
-In this project, you will learn how to use HTML tags to structure a web page. No CSS, no styling - don’t worry, the final page will be “ugly” it’s normal, it’s not the purpose of this project.
-
-
-
-Important note: details are important! lowercase vs uppercase / wrong letter… be careful!
+<!-- twitter -->
+[![Twitter](https://img.shields.io/twitter/follow/succynice?style=social)](https://twitter.com/succynice) <!-- linkedin --> [![Linkedin](https://img.shields.io/badge/LinkedIn-+26K-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/succynice/) <!-- github --> [![Github](https://img.shields.io/github/followers/succynice?style=social)](https://github.com/succynice/)
